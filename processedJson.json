@@ -1,0 +1,9 @@
+{
+	"DefaultTruckPlateHeight":20,
+	"DefaultTruckHeight":260,
+	"WriteProcessedFile":0,
+	"RabbitmqServer":"localhost",
+	"RabbitmqQueue":"processed",
+	"PathToSaveCsv":"/media/usb/",
+	"PathToSaveXlsx":"/media/usb/"
+}
